@@ -2,6 +2,9 @@ sword and soeae
 wall af shields
 standing strong
 on this thier chosen battle field
+<<<<<<< HEAD
 
 Form the lines
 Shield by shield
+=======
+>>>>>>> 72fffb8ccc4997a686b1f6ac2fd734d6a284f839
